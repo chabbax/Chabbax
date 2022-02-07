@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chabbax
+- 👋 Hi, I’m Chandur Dissanayake
 - 👀 I’m interested in the feild of Software Engineering and passionate about DevOps Engineering
 - 🌱 I’m currently an undergraduate at SLIIT
 - 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
