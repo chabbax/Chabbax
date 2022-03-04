@@ -5,8 +5,8 @@
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![github](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)
-![github](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
-
+![https://www.linkedin.com/in/chandur-work/](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![github](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white)
 
 
 <!---
