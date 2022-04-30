@@ -17,6 +17,3 @@ I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to c
 <code><img height="40" alt="Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="40" alt="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-
-
-Illustration by [Alexander Smetanov](https://dribbble.com/Smetanov/about) on [Icons8](https://icons8.com/)
