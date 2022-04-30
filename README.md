@@ -6,8 +6,6 @@ I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to c
 
 ## What I am doing now
 
-<img alt="illustration of web developer with laptop" src="./assets/polar-14.svg" style="max-width:100%;" width="460" height="340" align="right">
-
 * 📮 You can reach me at: chandur.work@gmail.com
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 
