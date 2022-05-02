@@ -10,9 +10,5 @@ I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to c
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 
 ### My languages and tools: 
-<code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" alt="ReactJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" alt="Css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" alt="NodeJs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" alt="SQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" alt="JavaScript" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fjavascript&psig=AOvVaw1D_nrHuwZfSudU6fTQFhw_&ust=1651603977025000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjjrbq-wfcCFQAAAAAdAAAAABAe"></code>
+<code><JavaScript></code>
+
