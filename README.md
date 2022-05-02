@@ -10,5 +10,7 @@ I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to c
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 
 ### My languages and tools: 
-<code>JavaScript</code><code>Docker</code><code>Kubernetes</code>
+<code>JavaScript</code>
 <code>ReactJS</code>
+<code>Docker</code>
+<code>Kubernetes</code>
