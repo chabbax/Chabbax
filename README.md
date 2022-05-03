@@ -1,6 +1,6 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:100%;" width="30px">,  I am Chandur Dissanayake!
 
-# About me 🙋‍♂️♂️
+**About me** 🙋‍♂️
 
 I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I'm also very passionate about DevOps Enigeering and would like to be in this feild in the future ✨
 
