@@ -4,8 +4,9 @@
 
 I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I'm also very passionate about DevOps Enigeering and would like to be in this feild in the future ✨
 
-* 📮 You can reach me at: chandur.work@gmail.com
+* 📮 Email: chandur.work@gmail.com
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
+* :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
 
 ### My languages and tools: 
 <code>JavaScript</code>
