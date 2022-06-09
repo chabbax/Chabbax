@@ -1,4 +1,4 @@
-# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:100%;" width="1px">,  I am Chandur Dissanayake!
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" style="max-width:50%;" width="1px">,  I am Chandur Dissanayake!
 
 **About me** 🙋‍♂️
 
