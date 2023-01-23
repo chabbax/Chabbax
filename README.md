@@ -7,7 +7,7 @@ I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to c
 * 📮 Email: chandur.work@gmail.com
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 * :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
-* I mostly work on GitLab 
+* I mostly work on GitLab & BitBucket and use GitHub for Academic Projects
 
 ### My languages and tools: 
 <code>JavaScript</code>
