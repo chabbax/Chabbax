@@ -8,7 +8,7 @@ Specialising secure and efficient infrastructure provisioning with Terraform acr
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 * :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
 
-### My languages and tools: 
+### I'm a Purveyor of : 
 <code>DevOps</code>
 <code>Networking</code>
 <code>Platform Engineering</code>
