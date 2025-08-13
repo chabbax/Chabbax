@@ -2,27 +2,18 @@
 
 **About me** 🙋‍♂️
 
-I am a Undergraduate Software Engineer at SLIIT from Sri Lanka 🌍. I love to code my ideas to life, creating reliable and unique applications that are a joy to use. I'm also very passionate about DevOps Enigeering and would like to be in this feild in the future ✨
+Specialising secure and efficient infrastructure provisioning with Terraform across AWS, Azure, and GCP. Proficient in Kubernetes cluster management, governance, and application deployment using Helm. Skilled in implementing CI/CD pipelines, designing Infrastructure architecture diagrams, GitOps workflows, service mesh, disaster recovery (DR), and DMZ setups. Experienced in production release management, monitoring, and incident resolution, with a focus on delivering fast and secure solutions.
 
 * 📮 Email: chandur.work@gmail.com
 * 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
 * :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
-* I mostly work on GitLab & BitBucket and use GitHub for Academic Projects
 
 ### My languages and tools: 
-<code>JavaScript</code>
-<code>ReactJS</code>
-<code>Docker</code>
-<code>Kubernetes</code>
-<code>Confluent</code>
-<code>Kafka</code>
-<code>Java</code>
-<code>Spring Boot</code>
-<code>GCP</code>
-<code>Grafana</code>
-<code>Prometheus</code>
-<code>NodeJS</code>
-<code>MongoDB</code>
+<code>DevOps</code>
+<code>Networking</code>
+<code>Platform Engineering</code>
+<code>Cybersecurity</code>
 <code>Azure</code>
 <code>AWS</code>
+<code>GCP</code>
 
