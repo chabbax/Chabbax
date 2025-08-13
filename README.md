@@ -2,10 +2,6 @@
 
 Specialising secure and efficient infrastructure provisioning with Terraform across AWS, Azure, and GCP. Proficient in Kubernetes cluster management, governance, and application deployment using Helm. Skilled in implementing CI/CD pipelines, designing Infrastructure architecture diagrams, GitOps workflows, service mesh, disaster recovery (DR), and DMZ setups. Experienced in production release management, monitoring, and incident resolution, with a focus on delivering fast and secure solutions.
 
-* 📮 Email: chandur.work@gmail.com
-* 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
-* :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
-
 ### I'm a Purveyor of : 
 <code>DevOps</code>
 <code>Networking</code>
@@ -14,4 +10,8 @@ Specialising secure and efficient infrastructure provisioning with Terraform acr
 <code>Azure</code>
 <code>AWS</code>
 <code>GCP</code>
+
+* 📮 Email: chandur.work@gmail.com
+* 📫 LinkedIn: https://www.linkedin.com/in/chandur-work/
+* :coffee: buymeacoffee: https://www.buymeacoffee.com/chandur
 
